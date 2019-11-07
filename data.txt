@@ -1,0 +1,10 @@
+Sha 512 is done by sabbir and sadikul haque sadi.
+today is our presentation about the two dominated algorithm aes and sha 512.
+but we can not fullfill our teachers all requirement of graphical user interface.
+But implementation of such two Algorithm was very dificult for our current level.
+But god pleasure us that we can complete it.
+So we deserve a better marks...Insallah.
+Assalamualaikum .
+copyright by [Sabbir,Sadi]
+From Institute of Information Technology,
+University of Dhaka.
